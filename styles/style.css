@@ -1,0 +1,12 @@
+.header{
+    background-image: url(../images/m4.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.rating-star{
+    padding-right:5px ;
+    width: 20px;
+}
